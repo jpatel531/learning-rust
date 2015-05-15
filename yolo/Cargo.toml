@@ -1,0 +1,4 @@
+[package]
+name = "yolo"
+version = "0.1.0"
+authors = ["Jamie Patel <jamie@notespublication.com>"]
